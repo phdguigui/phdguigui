@@ -2,7 +2,7 @@
 
 <p align="left">I'm a Fullstack Developer from Joinville, Brazil, currently working at <strong>Becomex</strong>.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="left">
 
 <img
     align="right"
