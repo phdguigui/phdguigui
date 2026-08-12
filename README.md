@@ -1,6 +1,6 @@
 ## 👋 Hello, I am Guilherme Siedschlag!
 
-<p align="left">I'm a Mid-Level Fullstack Developer from Joinville, Brazil, currently working at my personal project <strong>🪙 WorthyCoins</strong>.</p>
+<p align="left">I'm a Mid-Level Fullstack Developer from Joinville, Brazil, currently working at my personal project <strong>🪙 <a href="https://github.com/phdguigui/WorthyCoins">WorthyCoins</a></strong>.</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
